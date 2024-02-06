@@ -1,6 +1,6 @@
 ~~1/7 - 58 Length of Last Word~~
 
-1/8 - 1 Two Sum
+~~1/8 - 1 Two Sum~~
 
 1/9 - 14. Longest Common Prefix
 
