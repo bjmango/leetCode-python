@@ -17,5 +17,5 @@
 
 4. 14 Longest Common Prefix
    url: https://leetcode.com/problems/longest-common-prefix/description/
-   tags:
-   sln:
+   tags: early return, outbound
+   sln: https://www.youtube.com/watch?v=0sWShKIJoo4
